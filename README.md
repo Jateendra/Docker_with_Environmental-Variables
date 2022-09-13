@@ -2,9 +2,11 @@
 
 Environmental variables can be set in 2 ways in Docker .
 
-    - e
-    or
-    - --env-file = .env
+* e
+
+OR
+
+* --env-file = .env
 
 ## Procedure 1 : --env-file = .env
 
